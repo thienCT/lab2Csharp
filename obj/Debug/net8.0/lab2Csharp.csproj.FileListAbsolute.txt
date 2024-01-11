@@ -1,0 +1,14 @@
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.AssemblyInfoInputs.cache
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.AssemblyInfo.cs
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.csproj.CoreCompileInputs.cache
+F:\fptaptech\C#\lab2Csharp\bin\Debug\net8.0\lab2Csharp.exe
+F:\fptaptech\C#\lab2Csharp\bin\Debug\net8.0\lab2Csharp.deps.json
+F:\fptaptech\C#\lab2Csharp\bin\Debug\net8.0\lab2Csharp.runtimeconfig.json
+F:\fptaptech\C#\lab2Csharp\bin\Debug\net8.0\lab2Csharp.dll
+F:\fptaptech\C#\lab2Csharp\bin\Debug\net8.0\lab2Csharp.pdb
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.dll
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\refint\lab2Csharp.dll
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.pdb
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.genruntimeconfig.cache
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\ref\lab2Csharp.dll
