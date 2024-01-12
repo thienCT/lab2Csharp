@@ -12,3 +12,4 @@ F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\refint\lab2Csharp.dll
 F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.pdb
 F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.genruntimeconfig.cache
 F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\ref\lab2Csharp.dll
+F:\fptaptech\C#\lab2Csharp\obj\Debug\net8.0\lab2Csharp.sourcelink.json
